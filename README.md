@@ -19,12 +19,17 @@ docker ps: Contenedores que están corriendo
 
 -Creamos un documento en github (documento html)
 
+[![imagen-2022-10-26-161944426.png](https://i.postimg.cc/bJXMqc38/imagen-2022-10-26-161944426.png)](https://postimg.cc/v1zXvKJS)
 
 
 -En la linea de comandos escribimos wget https://github.com/lenyn8/lenyn_22/blob/main/index2.html
 
+[![imagen-2022-10-26-162019097.png](https://i.postimg.cc/sDfLjJ9B/imagen-2022-10-26-162019097.png)](https://postimg.cc/Rq8dGKY9)
+
 
 -Para verificar si se cargo correctamente escribimos el comando ls
+
+[![imagen-2022-10-26-162019097.png](https://i.postimg.cc/sDfLjJ9B/imagen-2022-10-26-162019097.png)](https://postimg.cc/Rq8dGKY9)
 
 -Ingresamos el comando docker cp index2.html nginx:/usr/share/nginx/html/index2.html (se extrae o se añade la informacion del html que se creo en el repositorio) ---> (Presionamos Open Port y ponemos el puerto 80)
 
