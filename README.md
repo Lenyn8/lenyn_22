@@ -33,3 +33,7 @@ docker ps: Contenedores que están corriendo
 
 -Ingresamos el comando docker cp index2.html nginx:/usr/share/nginx/html/index2.html (se extrae o se añade la informacion del html que se creo en el repositorio) ---> (Presionamos Open Port y ponemos el puerto 80)
 
+[![imagen-2022-10-26-162502806.png](https://i.postimg.cc/Hkw86bR2/imagen-2022-10-26-162502806.png)](https://postimg.cc/zyffBHJb)
+
+[![imagen-2022-10-26-162554635.png](https://i.postimg.cc/QNvqPkYG/imagen-2022-10-26-162554635.png)](https://postimg.cc/vDL9x9d3)
+
