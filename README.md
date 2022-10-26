@@ -2,10 +2,12 @@
 -Abrir Play with Docker
 -Ingresar el comando : docker run --name nginx -p 80:80 -d nginx 
 
+[![imagen-2022-10-26-152054448.png](https://i.postimg.cc/prdV2H1y/imagen-2022-10-26-152054448.png)](https://postimg.cc/N9Wv4Wtw)
+
 
 -Para verificar si esta funcionando el servidor ponemos docker ps
 
-
+[![imagen-2022-10-26-161832353.png](https://i.postimg.cc/3w6hpc1b/imagen-2022-10-26-161832353.png)](https://postimg.cc/GBk6nzZk)
 
 Comandos Básicos de Docker 
 docker run: Correr un contenedor
